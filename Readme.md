@@ -10,3 +10,7 @@
 6) run a command to fork all of them.
 7) run a command to add remotes to all of them.
 8) run a command to push to all the new remotes.
+
+Results:
+[lines_of_code](https://github.com/MichaelDimmitt/fix_all_organization_svg/blob/master/lines_of_code.txt)
+[readme_bug](https://github.com/MichaelDimmitt/fix_all_organization_svg/blob/master/check_for_readme_bug.txt)
